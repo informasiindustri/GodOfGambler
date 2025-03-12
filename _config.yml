@@ -1,0 +1,16 @@
+title: "Drama Kampung"
+description: "Drama Kampung - Cerita, Motivasi, dan penuh kisah cinta"
+url: "https://informasiindustri.github.io"
+baseurl: "/GodOfGambler"  # Jika ada di subfolder
+
+# Plugin
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
