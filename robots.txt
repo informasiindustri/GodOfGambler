@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://informasiindustri.github.io/GodOfGambler/sitemap.xml
